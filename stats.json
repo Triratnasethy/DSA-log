@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-06-20",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 0,
     "hard": 0,
     "basic": 1
   },
   "syncedProblems": {
-    "Manual_p-Reverse_a_String": true
+    "Manual_p-Reverse_a_String": true,
+    "Manual_p-String_Anagram": true
   },
   "activityHistory": {
-    "2026-06-20": 1
+    "2026-06-20": 2
   },
   "todayProblems": [
-    "p-Reverse a String"
+    "p-Reverse a String",
+    "p-String Anagram"
   ]
 }
