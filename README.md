@@ -4,3 +4,4 @@
 | 2 | [p-String Anagram](./Manual/Easy/p-String%20Anagram) | Manual | Easy | 20 Jun 2026 | 10:42 am |
 | 3 | [p-remove duplicates from string](./Manual/Easy/p-remove%20duplicates%20from%20string) | Manual | Easy | 20 Jun 2026 | 01:28 pm |
 | 4 | [find second largest from array](./Manual/Easy/find%20second%20largest%20from%20array) | Manual | Easy | 21 Jun 2026 | 09:29 pm |
+| 5 | [linear search](./Manual/Easy/linear%20search) | Manual | Easy | 21 Jun 2026 | 09:51 pm |

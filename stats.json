@@ -1,11 +1,11 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-06-21",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 0,
     "hard": 0,
     "basic": 1
@@ -14,13 +14,15 @@
     "Manual_p-Reverse_a_String": true,
     "Manual_p-String_Anagram": true,
     "Manual_p-remove_duplicates_from_string": true,
-    "Manual_find_second_largest_from_array": true
+    "Manual_find_second_largest_from_array": true,
+    "Manual_linear_search": true
   },
   "activityHistory": {
     "2026-06-20": 3,
-    "2026-06-21": 1
+    "2026-06-21": 2
   },
   "todayProblems": [
-    "find second largest from array"
+    "find second largest from array",
+    "linear search"
   ]
 }
