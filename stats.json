@@ -1,28 +1,29 @@
 {
-  "totalSolved": 5,
-  "currentStreak": 2,
-  "maxStreak": 2,
-  "lastSyncDate": "2026-06-21",
-  "todayCount": 2,
+  "totalSolved": 6,
+  "currentStreak": 3,
+  "maxStreak": 3,
+  "lastSyncDate": "2026-06-22",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 4,
     "medium": 0,
     "hard": 0,
-    "basic": 1
+    "basic": 2
   },
   "syncedProblems": {
     "Manual_p-Reverse_a_String": true,
     "Manual_p-String_Anagram": true,
     "Manual_p-remove_duplicates_from_string": true,
     "Manual_find_second_largest_from_array": true,
-    "Manual_linear_search": true
+    "Manual_linear_search": true,
+    "Manual_GCD_of_two_number": true
   },
   "activityHistory": {
     "2026-06-20": 3,
-    "2026-06-21": 2
+    "2026-06-21": 2,
+    "2026-06-22": 1
   },
   "todayProblems": [
-    "find second largest from array",
-    "linear search"
+    "GCD of two number"
   ]
 }
