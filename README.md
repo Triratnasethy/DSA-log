@@ -7,3 +7,4 @@
 | 5 | [linear search](./Manual/Easy/linear%20search) | Manual | Easy | 21 Jun 2026 | 09:51 pm |
 | 6 | [GCD of two number](./Manual/Basic/GCD%20of%20two%20number) | Manual | Basic | 22 Jun 2026 | 01:01 pm |
 | 7 | [Palindrome of number](./Manual/Basic/Palindrome%20of%20number) | Manual | Basic | 22 Jun 2026 | 01:02 pm |
+| 8 | [Factorial of given number](./Manual/Easy/Factorial%20of%20given%20number) | Manual | Easy | 22 Jun 2026 | 01:03 pm |
