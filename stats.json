@@ -1,11 +1,11 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-06-22",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 5,
+    "easy": 6,
     "medium": 0,
     "hard": 0,
     "basic": 3
@@ -18,16 +18,18 @@
     "Manual_linear_search": true,
     "Manual_GCD_of_two_number": true,
     "Manual_Palindrome_of_number": true,
-    "Manual_Factorial_of_given_number": true
+    "Manual_Factorial_of_given_number": true,
+    "Manual_Fibonnachi_series": true
   },
   "activityHistory": {
     "2026-06-20": 3,
     "2026-06-21": 2,
-    "2026-06-22": 3
+    "2026-06-22": 4
   },
   "todayProblems": [
     "GCD of two number",
     "Palindrome of number",
-    "Factorial of given number"
+    "Factorial of given number",
+    "Fibonnachi series"
   ]
 }
