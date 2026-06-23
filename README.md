@@ -10,3 +10,4 @@
 | 8 | [Factorial of given number](./Manual/Easy/Factorial%20of%20given%20number) | Manual | Easy | 22 Jun 2026 | 01:03 pm |
 | 9 | [Fibonnachi series](./Manual/Easy/Fibonnachi%20series) | Manual | Easy | 22 Jun 2026 | 01:05 pm |
 | 10 | [Prime number](./Manual/Easy/Prime%20number) | Manual | Easy | 22 Jun 2026 | 01:06 pm |
+| 11 | [max number](./Manual/Easy/max%20number) | Manual | Easy | 23 Jun 2026 | 11:23 pm |
