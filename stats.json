@@ -11,39 +11,33 @@
     "basic": 3
   },
   "syncedProblems": {
-    "Manual_p-Reverse_a_String": true,
-    "Manual_p-String_Anagram": true,
-    "Manual_p-remove_duplicates_from_string": true,
-    "Manual_find_second_largest_from_array": true,
-    "Manual_linear_search": true,
-    "Manual_GCD_of_two_number": true,
-    "Manual_Palindrome_of_number": true,
-    "Manual_Factorial_of_given_number": true,
-    "Manual_Fibonnachi_series": true,
-    "Manual_Prime_number": true,
-    "Manual_max_number": true,
-    "Manual_missing_number": true,
-    "Manual_Maximum_value_in_an_array": true,
-    "Manual_move_zeros_to_the_end": true,
-    "Manual_remove_duplicate_in_an_array": true,
-    "Manual_Left_Arrayrotation": true,
+    "Manual_BubbleSort": true,
     "Manual_Union_of_Arrays": true,
-    "Manual_BubbleSort": true
+    "Manual_Left_Arrayrotation": true,
+    "Manual_remove_duplicate_in_an_array": true,
+    "Manual_move_zeros_to_the_end": true,
+    "Manual_Maximum_value_in_an_array": true,
+    "Manual_missing_number": true,
+    "Manual_max_number": true,
+    "Manual_Prime_number": true,
+    "Manual_Fibonnachi_series": true,
+    "Manual_Factorial_of_given_number": true,
+    "Manual_Palindrome_of_number": true,
+    "Manual_GCD_of_two_number": true,
+    "Manual_linear_search": true,
+    "Manual_find_second_largest_from_array": true,
+    "Manual_p-remove_duplicates_from_string": true,
+    "Manual_p-String_Anagram": true,
+    "Manual_p-Reverse_a_String": true
   },
   "activityHistory": {
-    "2026-06-20": 3,
-    "2026-06-21": 2,
-    "2026-06-22": 5,
+    "2026-06-24": 7,
     "2026-06-23": 1,
-    "2026-06-24": 7
+    "2026-06-22": 5,
+    "2026-06-21": 2,
+    "2026-06-20": 3
   },
-  "todayProblems": [
-    "missing number",
-    "Maximum value in an array",
-    "move zeros to the end",
-    "remove duplicate in an array",
-    "Left Arrayrotation",
-    "Union_of_Arrays",
-    "BubbleSort"
-  ]
+  "todayProblems": [],
+  "usedTrophyDates": [],
+  "usedMilestones": []
 }
