@@ -15,3 +15,4 @@
 | 13 | [Maximum value in an array](./Manual/Easy/Maximum%20value%20in%20an%20array) | Manual | Easy | 24 Jun 2026 | 10:29 am |
 | 14 | [move zeros to the end](./Manual/Medium/move%20zeros%20to%20the%20end) | Manual | Medium | 24 Jun 2026 | 12:03 pm |
 | 15 | [remove duplicate in an array](./Manual/Medium/remove%20duplicate%20in%20an%20array) | Manual | Medium | 24 Jun 2026 | 12:48 pm |
+| 16 | [Left Arrayrotation](./Manual/Medium/Left%20Arrayrotation) | Manual | Medium | 24 Jun 2026 | 05:36 pm |
