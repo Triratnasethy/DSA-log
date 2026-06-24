@@ -12,3 +12,4 @@
 | 10 | [Prime number](./Manual/Easy/Prime%20number) | Manual | Easy | 22 Jun 2026 | 01:06 pm |
 | 11 | [max number](./Manual/Easy/max%20number) | Manual | Easy | 23 Jun 2026 | 11:23 pm |
 | 12 | [missing number](./Manual/Easy/missing%20number) | Manual | Easy | 24 Jun 2026 | 10:15 am |
+| 13 | [Maximum value in an array](./Manual/Easy/Maximum%20value%20in%20an%20array) | Manual | Easy | 24 Jun 2026 | 10:29 am |
