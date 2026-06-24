@@ -1,12 +1,12 @@
 {
-  "totalSolved": 13,
+  "totalSolved": 14,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-06-24",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 0,
+    "medium": 1,
     "hard": 0,
     "basic": 3
   },
@@ -23,17 +23,19 @@
     "Manual_Prime_number": true,
     "Manual_max_number": true,
     "Manual_missing_number": true,
-    "Manual_Maximum_value_in_an_array": true
+    "Manual_Maximum_value_in_an_array": true,
+    "Manual_move_zeros_to_the_end": true
   },
   "activityHistory": {
     "2026-06-20": 3,
     "2026-06-21": 2,
     "2026-06-22": 5,
     "2026-06-23": 1,
-    "2026-06-24": 2
+    "2026-06-24": 3
   },
   "todayProblems": [
     "missing number",
-    "Maximum value in an array"
+    "Maximum value in an array",
+    "move zeros to the end"
   ]
 }
