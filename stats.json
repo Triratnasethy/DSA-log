@@ -1,11 +1,11 @@
 {
-  "totalSolved": 11,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-06-23",
+  "totalSolved": 12,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-06-24",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 8,
+    "easy": 9,
     "medium": 0,
     "hard": 0,
     "basic": 3
@@ -21,15 +21,17 @@
     "Manual_Factorial_of_given_number": true,
     "Manual_Fibonnachi_series": true,
     "Manual_Prime_number": true,
-    "Manual_max_number": true
+    "Manual_max_number": true,
+    "Manual_missing_number": true
   },
   "activityHistory": {
     "2026-06-20": 3,
     "2026-06-21": 2,
     "2026-06-22": 5,
-    "2026-06-23": 1
+    "2026-06-23": 1,
+    "2026-06-24": 1
   },
   "todayProblems": [
-    "max number"
+    "missing number"
   ]
 }

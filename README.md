@@ -11,3 +11,4 @@
 | 9 | [Fibonnachi series](./Manual/Easy/Fibonnachi%20series) | Manual | Easy | 22 Jun 2026 | 01:05 pm |
 | 10 | [Prime number](./Manual/Easy/Prime%20number) | Manual | Easy | 22 Jun 2026 | 01:06 pm |
 | 11 | [max number](./Manual/Easy/max%20number) | Manual | Easy | 23 Jun 2026 | 11:23 pm |
+| 12 | [missing number](./Manual/Easy/missing%20number) | Manual | Easy | 24 Jun 2026 | 10:15 am |
