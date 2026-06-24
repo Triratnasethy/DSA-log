@@ -17,3 +17,4 @@
 | 15 | [remove duplicate in an array](./Manual/Medium/remove%20duplicate%20in%20an%20array) | Manual | Medium | 24 Jun 2026 | 12:48 pm |
 | 16 | [Left Arrayrotation](./Manual/Medium/Left%20Arrayrotation) | Manual | Medium | 24 Jun 2026 | 05:36 pm |
 | 17 | [Union_of_Arrays](./Manual/Easy/Union_of_Arrays) | Manual | Easy | 24 Jun 2026 | 07:47 pm |
+| 18 | [BubbleSort](./Manual/Easy/BubbleSort) | Manual | Easy | 24 Jun 2026 | 08:42 pm |
