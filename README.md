@@ -19,3 +19,4 @@
 | 17 | [Union_of_Arrays](./Manual/Easy/Union_of_Arrays) | Manual | Easy | 24 Jun 2026 | 07:47 pm |
 | 18 | [BubbleSort](./Manual/Easy/BubbleSort) | Manual | Easy | 24 Jun 2026 | 08:42 pm |
 | 19 | [Check even or odd](./Manual/Basic/Check%20even%20or%20odd) | Manual | Basic | 25 Jun 2026 | 11:25 pm |
+| 20 | [Two Sum in array](./Manual/Easy/Two%20Sum%20in%20array) | Manual | Easy | 26 Jun 2026 | 08:31 pm |
