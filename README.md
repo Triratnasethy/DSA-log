@@ -20,3 +20,4 @@
 | 18 | [BubbleSort](./Manual/Easy/BubbleSort) | Manual | Easy | 24 Jun 2026 | 08:42 pm |
 | 19 | [Check even or odd](./Manual/Basic/Check%20even%20or%20odd) | Manual | Basic | 25 Jun 2026 | 11:25 pm |
 | 20 | [Two Sum in array](./Manual/Easy/Two%20Sum%20in%20array) | Manual | Easy | 26 Jun 2026 | 08:31 pm |
+| 21 | [Reverse  a  number](./Manual/Easy/Reverse%20%20a%20%20number) | Manual | Easy | 27 Jun 2026 | 10:47 pm |
