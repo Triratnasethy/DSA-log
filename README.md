@@ -21,3 +21,4 @@
 | 19 | [Check even or odd](./Manual/Basic/Check%20even%20or%20odd) | Manual | Basic | 25 Jun 2026 | 11:25 pm |
 | 20 | [Two Sum in array](./Manual/Easy/Two%20Sum%20in%20array) | Manual | Easy | 26 Jun 2026 | 08:31 pm |
 | 21 | [Reverse  a  number](./Manual/Easy/Reverse%20%20a%20%20number) | Manual | Easy | 27 Jun 2026 | 10:47 pm |
+| 22 | [Print GFG n times](./GeeksForGeeks/Easy/Print%20GFG%20n%20times) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-gfg-n-times/1) | Easy | 28 Jun 2026 | 09:01 pm |
