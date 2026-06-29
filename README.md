@@ -22,3 +22,4 @@
 | 20 | [Two Sum in array](./Manual/Easy/Two%20Sum%20in%20array) | Manual | Easy | 26 Jun 2026 | 08:31 pm |
 | 21 | [Reverse  a  number](./Manual/Easy/Reverse%20%20a%20%20number) | Manual | Easy | 27 Jun 2026 | 10:47 pm |
 | 22 | [Print GFG n times](./GeeksForGeeks/Easy/Print%20GFG%20n%20times) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-gfg-n-times/1) | Easy | 28 Jun 2026 | 09:01 pm |
+| 23 | [1 to n Without Loops](./GeeksForGeeks/Basic/1%20to%20n%20Without%20Loops) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | Basic | 29 Jun 2026 | 10:57 am |

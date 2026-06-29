@@ -1,14 +1,14 @@
 {
-  "totalSolved": 22,
-  "currentStreak": 9,
-  "maxStreak": 9,
-  "lastSyncDate": "2026-06-28",
+  "totalSolved": 23,
+  "currentStreak": 10,
+  "maxStreak": 10,
+  "lastSyncDate": "2026-06-29",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 15,
     "medium": 3,
     "hard": 0,
-    "basic": 4
+    "basic": 5
   },
   "syncedProblems": {
     "Manual_BubbleSort": true,
@@ -32,7 +32,8 @@
     "Manual_Check_even_or_odd": true,
     "Manual_Two_Sum_in_array": true,
     "Manual_Reverse_a_number": true,
-    "GeeksForGeeks_Print_GFG_n_times": true
+    "GeeksForGeeks_Print_GFG_n_times": true,
+    "GeeksForGeeks_1_to_n_Without_Loops": true
   },
   "activityHistory": {
     "2026-06-24": 7,
@@ -43,10 +44,11 @@
     "2026-06-25": 1,
     "2026-06-26": 1,
     "2026-06-27": 1,
-    "2026-06-28": 1
+    "2026-06-28": 1,
+    "2026-06-29": 1
   },
   "todayProblems": [
-    "Print GFG n times"
+    "1 to n Without Loops"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
