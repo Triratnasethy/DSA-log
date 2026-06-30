@@ -1,13 +1,13 @@
 {
-  "totalSolved": 24,
-  "currentStreak": 10,
-  "maxStreak": 10,
-  "lastSyncDate": "2026-06-29",
-  "todayCount": 2,
+  "totalSolved": 25,
+  "currentStreak": 11,
+  "maxStreak": 11,
+  "lastSyncDate": "2026-06-30",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 16,
     "medium": 3,
-    "hard": 0,
+    "hard": 1,
     "basic": 5
   },
   "syncedProblems": {
@@ -34,7 +34,8 @@
     "Manual_Reverse_a_number": true,
     "GeeksForGeeks_Print_GFG_n_times": true,
     "GeeksForGeeks_1_to_n_Without_Loops": true,
-    "GeeksForGeeks_Two_Sum_-_Pair_with_Given_Sum": true
+    "GeeksForGeeks_Two_Sum_-_Pair_with_Given_Sum": true,
+    "LeetCode_First_Missing_Positive": true
   },
   "activityHistory": {
     "2026-06-24": 7,
@@ -46,11 +47,11 @@
     "2026-06-26": 1,
     "2026-06-27": 1,
     "2026-06-28": 1,
-    "2026-06-29": 2
+    "2026-06-29": 2,
+    "2026-06-30": 1
   },
   "todayProblems": [
-    "1 to n Without Loops",
-    "Two Sum - Pair with Given Sum"
+    "First Missing Positive"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []

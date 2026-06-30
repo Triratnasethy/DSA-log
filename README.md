@@ -24,3 +24,4 @@
 | 22 | [Print GFG n times](./GeeksForGeeks/Easy/Print%20GFG%20n%20times) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-gfg-n-times/1) | Easy | 28 Jun 2026 | 09:01 pm |
 | 23 | [1 to n Without Loops](./GeeksForGeeks/Basic/1%20to%20n%20Without%20Loops) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | Basic | 29 Jun 2026 | 10:57 am |
 | 24 | [Two Sum - Pair with Given Sum](./GeeksForGeeks/Easy/Two%20Sum%20-%20Pair%20with%20Given%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/key-pair5616/1) | Easy | 29 Jun 2026 | 12:08 pm |
+| 25 | [First Missing Positive](./LeetCode/Hard/First%20Missing%20Positive) | [LeetCode](https://leetcode.com/problems/first-missing-positive/) | Hard | 30 Jun 2026 | 11:20 pm |
