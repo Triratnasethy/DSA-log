@@ -25,3 +25,4 @@
 | 23 | [1 to n Without Loops](./GeeksForGeeks/Basic/1%20to%20n%20Without%20Loops) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | Basic | 29 Jun 2026 | 10:57 am |
 | 24 | [Two Sum - Pair with Given Sum](./GeeksForGeeks/Easy/Two%20Sum%20-%20Pair%20with%20Given%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/key-pair5616/1) | Easy | 29 Jun 2026 | 12:08 pm |
 | 25 | [First Missing Positive](./LeetCode/Hard/First%20Missing%20Positive) | [LeetCode](https://leetcode.com/problems/first-missing-positive/) | Hard | 30 Jun 2026 | 11:20 pm |
+| 26 | [Maximum Product Subarray](./LeetCode/Medium/Maximum%20Product%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-product-subarray/) | Medium | 01 Jul 2026 | 11:39 pm |
