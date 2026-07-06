@@ -26,3 +26,4 @@
 | 24 | [Two Sum - Pair with Given Sum](./GeeksForGeeks/Easy/Two%20Sum%20-%20Pair%20with%20Given%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/key-pair5616/1) | Easy | 29 Jun 2026 | 12:08 pm |
 | 25 | [First Missing Positive](./LeetCode/Hard/First%20Missing%20Positive) | [LeetCode](https://leetcode.com/problems/first-missing-positive/) | Hard | 30 Jun 2026 | 11:20 pm |
 | 26 | [Maximum Product Subarray](./LeetCode/Medium/Maximum%20Product%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-product-subarray/) | Medium | 01 Jul 2026 | 11:39 pm |
+| 27 | [String Duplicates Removal](./GeeksForGeeks/Medium/String%20Duplicates%20Removal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | Medium | 06 Jul 2026 | 10:15 am |
