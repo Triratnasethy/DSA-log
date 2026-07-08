@@ -27,3 +27,4 @@
 | 25 | [First Missing Positive](./LeetCode/Hard/First%20Missing%20Positive) | [LeetCode](https://leetcode.com/problems/first-missing-positive/) | Hard | 30 Jun 2026 | 11:20 pm |
 | 26 | [Maximum Product Subarray](./LeetCode/Medium/Maximum%20Product%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-product-subarray/) | Medium | 01 Jul 2026 | 11:39 pm |
 | 27 | [String Duplicates Removal](./GeeksForGeeks/Medium/String%20Duplicates%20Removal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | Medium | 06 Jul 2026 | 10:15 am |
+| 28 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 08 Jul 2026 | 11:37 am |
