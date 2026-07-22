@@ -30,3 +30,4 @@
 | 28 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 08 Jul 2026 | 11:37 am |
 | 29 | [Binary Representation](./GeeksForGeeks/Basic/Binary%20Representation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/binary-representation5003/1) | Basic | 21 Jul 2026 | 12:32 pm |
 | 30 | [String to Integer (atoi)](./LeetCode/Medium/String%20to%20Integer%20(atoi)) | [LeetCode](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | 22 Jul 2026 | 12:20 pm |
+| 31 | [Parenthesis Checker](./GeeksForGeeks/Easy/Parenthesis%20Checker) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) | Easy | 22 Jul 2026 | 07:57 pm |
