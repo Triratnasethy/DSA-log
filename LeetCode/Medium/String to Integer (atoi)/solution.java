@@ -1,0 +1,39 @@
+class Solution {
+    public int myAtoi(String s) {
+        
+          s = s.trim();      // Remove leading and trailing spaces
+
+        if (s.length() == 0)
+            return 0;
+
+        int sign = 1;
+        int i = 0;
+
+        // Check sign
+        if (s.charAt(0) == '-') {
+            sign = -1;
+            i++;
+        } else if (s.charAt(0) == '+') {
+            i++;
+        }
+
+        long num = 0;
+
+        // Read digits
+        while (i < s.length() && Character.isDigit(s.charAt(i))) {
+            num = num * 10 + (s.charAt(i) - '0');
+
+            // Check overflow
+            if (sign * num > Integer.MAX_VALUE)
+                return Integer.MAX_VALUE;
+
+            if (sign * num < Integer.MIN_VALUE)
+                return Integer.MIN_VALUE;
+
+            i++;
+        }
+
+        return (int) (sign * num);
+        
+    }
+}
