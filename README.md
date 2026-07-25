@@ -31,3 +31,4 @@
 | 29 | [Binary Representation](./GeeksForGeeks/Basic/Binary%20Representation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/binary-representation5003/1) | Basic | 21 Jul 2026 | 12:32 pm |
 | 30 | [String to Integer (atoi)](./LeetCode/Medium/String%20to%20Integer%20(atoi)) | [LeetCode](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | 22 Jul 2026 | 12:20 pm |
 | 31 | [Parenthesis Checker](./GeeksForGeeks/Easy/Parenthesis%20Checker) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) | Easy | 22 Jul 2026 | 07:57 pm |
+| 32 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 25 Jul 2026 | 12:18 pm |

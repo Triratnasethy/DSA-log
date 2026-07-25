@@ -1,12 +1,12 @@
 {
-  "totalSolved": 31,
-  "currentStreak": 2,
+  "totalSolved": 32,
+  "currentStreak": 1,
   "maxStreak": 12,
-  "lastSyncDate": "2026-07-22",
-  "todayCount": 2,
+  "lastSyncDate": "2026-07-25",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 18,
-    "medium": 6,
+    "medium": 7,
     "hard": 1,
     "basic": 6
   },
@@ -41,7 +41,8 @@
     "LeetCode_Two_Sum": true,
     "GeeksForGeeks_Binary_Representation": true,
     "LeetCode_String_to_Integer_(atoi)": true,
-    "GeeksForGeeks_Parenthesis_Checker": true
+    "GeeksForGeeks_Parenthesis_Checker": true,
+    "LeetCode_Reverse_Integer": true
   },
   "activityHistory": {
     "2026-06-24": 7,
@@ -59,11 +60,11 @@
     "2026-07-06": 1,
     "2026-07-08": 1,
     "2026-07-21": 1,
-    "2026-07-22": 2
+    "2026-07-22": 2,
+    "2026-07-25": 1
   },
   "todayProblems": [
-    "String to Integer (atoi)",
-    "Parenthesis Checker"
+    "Reverse Integer"
   ],
   "usedTrophyDates": [],
   "usedMilestones": []
