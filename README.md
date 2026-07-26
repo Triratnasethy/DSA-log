@@ -32,3 +32,4 @@
 | 30 | [String to Integer (atoi)](./LeetCode/Medium/String%20to%20Integer%20(atoi)) | [LeetCode](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | 22 Jul 2026 | 12:20 pm |
 | 31 | [Parenthesis Checker](./GeeksForGeeks/Easy/Parenthesis%20Checker) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) | Easy | 22 Jul 2026 | 07:57 pm |
 | 32 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 25 Jul 2026 | 12:18 pm |
+| 33 | [Longest Subarray with Sum K](./GeeksForGeeks/Medium/Longest%20Subarray%20with%20Sum%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | Medium | 26 Jul 2026 | 01:58 pm |
